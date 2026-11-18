@@ -1,0 +1,11 @@
+# ============================================================
+# 项目：Python_OOP_Cost_Analysis_Project（校园食堂消费分析）
+# ============================================================
+# 运行环境：Python 3.8 及以上（本机实测 Python 3.13.18，Windows 11）
+# 第三方依赖：无
+#
+# 本项目只用 Python 标准库，甚至没有 import 任何模块，
+# 只使用了内置函数：sum() / max() / min() / len() / print()
+# 因此本文件不需要列出任何包名，也无需执行 pip install。
+
+This project only uses the Python standard library.
